@@ -1,0 +1,88 @@
+I've completed the task given by APEX PLANET SOFTWARE PVT.LTD
+
+🚀 Project Completed: WEB DEVELOPMENT PROGRAMING on BASIC WEB PAGE 🚀
+
+I'm thrilled to announce the successful completion of APEX PLANET SOFTWARE PVT.LTD
+ WEB DEVELOPMENT programming project, building a BACICS OF WEB DEVELOPMENT.
+
+Key Features Implemented:
+
+- Designed and developed a basic web page using html, css , javascript
+- Implemented a basic web page using
+- HTML (headings, paragraphs, images, links)
+- CSS (add colors, fonts, spacing, layout adjustments to webpages)
+- JAVASCRIPT (create a button that triggers an alert message when clicked)
+
+Technical Highlights:
+
+- Utilized web VS code libraries(bootstrap, live server) for web page
+
+
+Skills Demonstrated:
+
+-HTML (HyperText Markup Language):
+ The foundation of web pages, defining the structure and content.
+-CSS (Cascading Style Sheets):
+ Responsible for styling and formatting elements on a webpage.
+-JavaScript​:
+ Adds interactivity and dynamic behavior to websites.
+
+Thank you, APEX PLANET SOFTWARE PVT.LTD
+ , for this invaluable opportunity!
+
+
+HTML SOURCE CODE
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal profile page</title>
+    <link rel="stylesheet" href="web.css">
+    
+</head>
+<body>
+    <div>
+    
+    
+    <h1>WELCOME TO MY PROFILE !</h1>
+    <h2>VALLAKATI HARIKA</h2>
+    <p>
+    <img src="image.jpg" ><br>
+     This my personal profile page..!<br>
+      <h3> 
+    <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><u> MY LINKEDIN WEBSITE</u></a></h3></p>
+     <button id="welcome-button">CLICK HERE!</button>
+    </div> 
+    <script src="web.js">
+        
+    </script>
+    
+</body>
+</html> 
+
+CSS SOURCE CODE
+
+div
+{
+    background-image: url(bgimage1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:  Arial, Helvetica, sans-serif, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    width: 25%;
+}
+
+
+JAVASCRIPT SOURCE CODE
+
+document.getElementById('welcome-button').addEventListener('click', function() {
+    alert('Thankyou for viewed my first webpage..!');
+});
+        
+    
+
